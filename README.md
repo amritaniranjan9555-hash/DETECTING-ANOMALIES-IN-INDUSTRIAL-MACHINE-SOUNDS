@@ -22,7 +22,7 @@ This project develops a robust machine learning model for **unsupervised anomaly
 ## ML Pipeline
 
 <!-- Save your pipeline image to the repo as 'pipeline.png' and it will display here -->
-![ML Pipeline](pipeline.png)
+![ML Pipeline](ML%20Pipeline.jpeg)
 
 ---
 
